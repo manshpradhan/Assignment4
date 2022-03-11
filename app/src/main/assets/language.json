@@ -1,0 +1,15 @@
+[
+  {
+    "name":"English",
+    "code" : "en"
+  },
+  {
+    "name":"Japanese",
+    "code" : "ja"
+  },
+
+  {
+    "name":"Korean",
+    "code" : "ko"
+  }
+]

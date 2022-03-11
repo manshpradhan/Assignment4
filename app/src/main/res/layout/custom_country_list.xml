@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginVertical="10dp">
+
+        <TextView
+            android:id="@+id/countryName"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingRight="5sp"/>
+
+<!--        <TextView-->
+<!--            android:id="@+id/countryCode"-->
+<!--            android:layout_width="80dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:textSize="15sp"/>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/countryCode2"-->
+<!--            android:layout_width="80dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:textSize="15sp"/>-->
+
+        <TextView
+            android:id="@+id/countryEmoji"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAlignment="center" />
+
+    </LinearLayout>
+
+</LinearLayout>

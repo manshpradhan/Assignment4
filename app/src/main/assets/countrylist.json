@@ -1,0 +1,814 @@
+ [
+    {
+      "id": 2,
+      "name": "Åland Islands",
+      "flag": "https://restcountries.eu/data/ala.svg",
+      "alpha_code_2": "AX",
+      "alpha_code_3": "ALA",
+      "languages": [
+        {
+          "iso639_1": "sv",
+          "iso639_2": "swe",
+          "name": "Swedish",
+          "nativeName": "svenska"
+        }
+      ],
+      "emoji": "🇦🇽"
+    },
+    {
+      "id": 3,
+      "name": "Albania",
+      "flag": "https://restcountries.eu/data/alb.svg",
+      "alpha_code_2": "AL",
+      "alpha_code_3": "ALB",
+      "languages": [
+        {
+          "iso639_1": "sq",
+          "iso639_2": "sqi",
+          "name": "Albanian",
+          "nativeName": "Shqip"
+        }
+      ],
+      "emoji": "🇦🇱"
+    },
+    {
+      "id": 4,
+      "name": "Algeria",
+      "flag": "https://restcountries.eu/data/dza.svg",
+      "alpha_code_2": "DZ",
+      "alpha_code_3": "DZA",
+      "languages": [
+        {
+          "iso639_1": "ar",
+          "iso639_2": "ara",
+          "name": "Arabic",
+          "nativeName": "العربية"
+        }
+      ],
+      "emoji": "🇩🇿"
+    },
+    {
+      "id": 5,
+      "name": "American Samoa",
+      "flag": "https://restcountries.eu/data/asm.svg",
+      "alpha_code_2": "AS",
+      "alpha_code_3": "ASM",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        },
+        {
+          "iso639_1": "sm",
+          "iso639_2": "smo",
+          "name": "Samoan",
+          "nativeName": "gagana fa'a Samoa"
+        }
+      ],
+      "emoji": "🇦🇸"
+    },
+    {
+      "id": 6,
+      "name": "Andorra",
+      "flag": "https://restcountries.eu/data/and.svg",
+      "alpha_code_2": "AD",
+      "alpha_code_3": "AND",
+      "languages": [
+        {
+          "iso639_1": "ca",
+          "iso639_2": "cat",
+          "name": "Catalan",
+          "nativeName": "català"
+        }
+      ],
+      "emoji": "🇦🇩"
+    },
+    {
+      "id": 7,
+      "name": "Angola",
+      "flag": "https://restcountries.eu/data/ago.svg",
+      "alpha_code_2": "AO",
+      "alpha_code_3": "AGO",
+      "languages": [
+        {
+          "iso639_1": "pt",
+          "iso639_2": "por",
+          "name": "Portuguese",
+          "nativeName": "Português"
+        }
+      ],
+      "emoji": "🇦🇴"
+    },
+    {
+      "id": 8,
+      "name": "Anguilla",
+      "flag": "https://restcountries.eu/data/aia.svg",
+      "alpha_code_2": "AI",
+      "alpha_code_3": "AIA",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇦🇮"
+    },
+    {
+      "id": 10,
+      "name": "Antigua and Barbuda",
+      "flag": "https://restcountries.eu/data/atg.svg",
+      "alpha_code_2": "AG",
+      "alpha_code_3": "ATG",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇦🇬"
+    },
+    {
+      "id": 11,
+      "name": "Argentina",
+      "flag": "https://restcountries.eu/data/arg.svg",
+      "alpha_code_2": "AR",
+      "alpha_code_3": "ARG",
+      "languages": [
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        },
+        {
+          "iso639_1": "gn",
+          "iso639_2": "grn",
+          "name": "Guaraní",
+          "nativeName": "Avañe'ẽ"
+        }
+      ],
+      "emoji": "🇦🇷"
+    },
+    {
+      "id": 12,
+      "name": "Armenia",
+      "flag": "https://restcountries.eu/data/arm.svg",
+      "alpha_code_2": "AM",
+      "alpha_code_3": "ARM",
+      "languages": [
+        {
+          "iso639_1": "hy",
+          "iso639_2": "hye",
+          "name": "Armenian",
+          "nativeName": "Հայերեն"
+        },
+        {
+          "iso639_1": "ru",
+          "iso639_2": "rus",
+          "name": "Russian",
+          "nativeName": "Русский"
+        }
+      ],
+      "emoji": "🇦🇲"
+    },
+    {
+      "id": 13,
+      "name": "Aruba",
+      "flag": "https://restcountries.eu/data/abw.svg",
+      "alpha_code_2": "AW",
+      "alpha_code_3": "ABW",
+      "languages": [
+        {
+          "iso639_1": "nl",
+          "iso639_2": "nld",
+          "name": "Dutch",
+          "nativeName": "Nederlands"
+        },
+        {
+          "iso639_1": "pa",
+          "iso639_2": "pan",
+          "name": "(Eastern) Punjabi",
+          "nativeName": "ਪੰਜਾਬੀ"
+        }
+      ],
+      "emoji": "🇦🇼"
+    },
+    {
+      "id": 14,
+      "name": "Australia",
+      "flag": "https://restcountries.eu/data/aus.svg",
+      "alpha_code_2": "AU",
+      "alpha_code_3": "AUS",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇦🇺"
+    },
+    {
+      "id": 18,
+      "name": "Bahrain",
+      "flag": "https://restcountries.eu/data/bhr.svg",
+      "alpha_code_2": "BH",
+      "alpha_code_3": "BHR",
+      "languages": [
+        {
+          "iso639_1": "ar",
+          "iso639_2": "ara",
+          "name": "Arabic",
+          "nativeName": "العربية"
+        }
+      ],
+      "emoji": "🇧🇭"
+    },
+    {
+      "id": 19,
+      "name": "Bangladesh",
+      "flag": "https://restcountries.eu/data/bgd.svg",
+      "alpha_code_2": "BD",
+      "alpha_code_3": "BGD",
+      "languages": [
+        {
+          "iso639_1": "bn",
+          "iso639_2": "ben",
+          "name": "Bengali",
+          "nativeName": "বাংলা"
+        }
+      ],
+      "emoji": "🇧🇩"
+    },
+    {
+      "id": 20,
+      "name": "Barbados",
+      "flag": "https://restcountries.eu/data/brb.svg",
+      "alpha_code_2": "BB",
+      "alpha_code_3": "BRB",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇧🇧"
+    },
+    {
+      "id": 22,
+      "name": "Belgium",
+      "flag": "https://restcountries.eu/data/bel.svg",
+      "alpha_code_2": "BE",
+      "alpha_code_3": "BEL",
+      "languages": [
+        {
+          "iso639_1": "nl",
+          "iso639_2": "nld",
+          "name": "Dutch",
+          "nativeName": "Nederlands"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "de",
+          "iso639_2": "deu",
+          "name": "German",
+          "nativeName": "Deutsch"
+        }
+      ],
+      "emoji": "🇧🇪"
+    },
+    {
+      "id": 23,
+      "name": "Belize",
+      "flag": "https://restcountries.eu/data/blz.svg",
+      "alpha_code_2": "BZ",
+      "alpha_code_3": "BLZ",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        },
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        }
+      ],
+      "emoji": "🇧🇿"
+    },
+    {
+      "id": 33,
+      "name": "British Indian Ocean Territory",
+      "flag": "https://restcountries.eu/data/iot.svg",
+      "alpha_code_2": "IO",
+      "alpha_code_3": "IOT",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇮🇴"
+    },
+    {
+      "id": 34,
+      "name": "United States Minor Outlying Islands",
+      "flag": "https://restcountries.eu/data/umi.svg",
+      "alpha_code_2": "UM",
+      "alpha_code_3": "UMI",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇺🇲"
+    },
+    {
+      "id": 35,
+      "name": "Virgin Islands (British)",
+      "flag": "https://restcountries.eu/data/vgb.svg",
+      "alpha_code_2": "VG",
+      "alpha_code_3": "VGB",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇻🇬"
+    },
+    {
+      "id": 36,
+      "name": "Virgin Islands (U.S.)",
+      "flag": "https://restcountries.eu/data/vir.svg",
+      "alpha_code_2": "VI",
+      "alpha_code_3": "VIR",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇻🇮"
+    },
+    {
+      "id": 37,
+      "name": "Brunei Darussalam",
+      "flag": "https://restcountries.eu/data/brn.svg",
+      "alpha_code_2": "BN",
+      "alpha_code_3": "BRN",
+      "languages": [
+        {
+          "iso639_1": "ms",
+          "iso639_2": "msa",
+          "name": "Malay",
+          "nativeName": "bahasa Melayu"
+        }
+      ],
+      "emoji": "🇧🇳"
+    },
+    {
+      "id": 38,
+      "name": "Bulgaria",
+      "flag": "https://restcountries.eu/data/bgr.svg",
+      "alpha_code_2": "BG",
+      "alpha_code_3": "BGR",
+      "languages": [
+        {
+          "iso639_1": "bg",
+          "iso639_2": "bul",
+          "name": "Bulgarian",
+          "nativeName": "български език"
+        }
+      ],
+      "emoji": "🇧🇬"
+    },
+    {
+      "id": 39,
+      "name": "Burkina Faso",
+      "flag": "https://restcountries.eu/data/bfa.svg",
+      "alpha_code_2": "BF",
+      "alpha_code_3": "BFA",
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "ff",
+          "iso639_2": "ful",
+          "name": "Fula",
+          "nativeName": "Fulfulde"
+        }
+      ],
+      "emoji": "🇧🇫"
+    },
+    {
+      "id": 40,
+      "name": "Burundi",
+      "flag": "https://restcountries.eu/data/bdi.svg",
+      "alpha_code_2": "BI",
+      "alpha_code_3": "BDI",
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "rn",
+          "iso639_2": "run",
+          "name": "Kirundi",
+          "nativeName": "Ikirundi"
+        }
+      ],
+      "emoji": "🇧🇮"
+    },
+    {
+      "id": 41,
+      "name": "Cambodia",
+      "flag": "https://restcountries.eu/data/khm.svg",
+      "alpha_code_2": "KH",
+      "alpha_code_3": "KHM",
+      "languages": [
+        {
+          "iso639_1": "km",
+          "iso639_2": "khm",
+          "name": "Khmer",
+          "nativeName": "ខ្មែរ"
+        }
+      ],
+      "emoji": "🇰🇭"
+    },
+    {
+      "id": 42,
+      "name": "Cameroon",
+      "flag": "https://restcountries.eu/data/cmr.svg",
+      "alpha_code_2": "CM",
+      "alpha_code_3": "CMR",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "emoji": "🇨🇲"
+    },
+    {
+      "id": 43,
+      "name": "Canada",
+      "flag": "https://restcountries.eu/data/can.svg",
+      "alpha_code_2": "CA",
+      "alpha_code_3": "CAN",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "emoji": "🇨🇦"
+    },
+    {
+      "id": 44,
+      "name": "Cabo Verde",
+      "flag": "https://restcountries.eu/data/cpv.svg",
+      "alpha_code_2": "CV",
+      "alpha_code_3": "CPV",
+      "languages": [
+        {
+          "iso639_1": "pt",
+          "iso639_2": "por",
+          "name": "Portuguese",
+          "nativeName": "Português"
+        }
+      ],
+      "emoji": "🇨🇻"
+    },
+    {
+      "id": 45,
+      "name": "Cayman Islands",
+      "flag": "https://restcountries.eu/data/cym.svg",
+      "alpha_code_2": "KY",
+      "alpha_code_3": "CYM",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇰🇾"
+    },
+    {
+      "id": 49,
+      "name": "China",
+      "flag": "https://restcountries.eu/data/chn.svg",
+      "alpha_code_2": "CN",
+      "alpha_code_3": "CHN",
+      "languages": [
+        {
+          "iso639_1": "zh",
+          "iso639_2": "zho",
+          "name": "Chinese",
+          "nativeName": "中文 (Zhōngwén)"
+        }
+      ],
+      "emoji": "🇨🇳"
+    },
+    {
+      "id": 50,
+      "name": "Christmas Island",
+      "flag": "https://restcountries.eu/data/cxr.svg",
+      "alpha_code_2": "CX",
+      "alpha_code_3": "CXR",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇨🇽"
+    },
+    {
+      "id": 51,
+      "name": "Cocos (Keeling) Islands",
+      "flag": "https://restcountries.eu/data/cck.svg",
+      "alpha_code_2": "CC",
+      "alpha_code_3": "CCK",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇨🇨"
+    },
+    {
+      "id": 53,
+      "name": "Comoros",
+      "flag": "https://restcountries.eu/data/com.svg",
+      "alpha_code_2": "KM",
+      "alpha_code_3": "COM",
+      "languages": [
+        {
+          "iso639_1": "ar",
+          "iso639_2": "ara",
+          "name": "Arabic",
+          "nativeName": "العربية"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "emoji": "🇰🇲"
+    },
+    {
+      "id": 54,
+      "name": "Congo",
+      "flag": "https://restcountries.eu/data/cog.svg",
+      "alpha_code_2": "CG",
+      "alpha_code_3": "COG",
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "ln",
+          "iso639_2": "lin",
+          "name": "Lingala",
+          "nativeName": "Lingála"
+        }
+      ],
+      "emoji": "🇨🇬"
+    },
+    {
+      "id": 56,
+      "name": "Cook Islands",
+      "flag": "https://restcountries.eu/data/cok.svg",
+      "alpha_code_2": "CK",
+      "alpha_code_3": "COK",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇨🇰"
+    },
+    {
+      "id": 57,
+      "name": "Costa Rica",
+      "flag": "https://restcountries.eu/data/cri.svg",
+      "alpha_code_2": "CR",
+      "alpha_code_3": "CRI",
+      "languages": [
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        }
+      ],
+      "emoji": "🇨🇷"
+    },
+    {
+      "id": 58,
+      "name": "Croatia",
+      "flag": "https://restcountries.eu/data/hrv.svg",
+      "alpha_code_2": "HR",
+      "alpha_code_3": "HRV",
+      "languages": [
+        {
+          "iso639_1": "hr",
+          "iso639_2": "hrv",
+          "name": "Croatian",
+          "nativeName": "hrvatski jezik"
+        }
+      ],
+      "emoji": "🇭🇷"
+    },
+    {
+      "id": 59,
+      "name": "Cuba",
+      "flag": "https://restcountries.eu/data/cub.svg",
+      "alpha_code_2": "CU",
+      "alpha_code_3": "CUB",
+      "languages": [
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        }
+      ],
+      "emoji": "🇨🇺"
+    },
+    {
+      "id": 60,
+      "name": "Curaçao",
+      "flag": "https://restcountries.eu/data/cuw.svg",
+      "alpha_code_2": "CW",
+      "alpha_code_3": "CUW",
+      "languages": [
+        {
+          "iso639_1": "nl",
+          "iso639_2": "nld",
+          "name": "Dutch",
+          "nativeName": "Nederlands"
+        },
+        {
+          "iso639_1": "pa",
+          "iso639_2": "pan",
+          "name": "(Eastern) Punjabi",
+          "nativeName": "ਪੰਜਾਬੀ"
+        },
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇨🇼"
+    },
+    {
+      "id": 61,
+      "name": "Cyprus",
+      "flag": "https://restcountries.eu/data/cyp.svg",
+      "alpha_code_2": "CY",
+      "alpha_code_3": "CYP",
+      "languages": [
+        {
+          "iso639_1": "el",
+          "iso639_2": "ell",
+          "name": "Greek (modern)",
+          "nativeName": "ελληνικά"
+        },
+        {
+          "iso639_1": "tr",
+          "iso639_2": "tur",
+          "name": "Turkish",
+          "nativeName": "Türkçe"
+        },
+        {
+          "iso639_1": "hy",
+          "iso639_2": "hye",
+          "name": "Armenian",
+          "nativeName": "Հայերեն"
+        }
+      ],
+      "emoji": "🇨🇾"
+    },
+    {
+      "id": 63,
+      "name": "Denmark",
+      "flag": "https://restcountries.eu/data/dnk.svg",
+      "alpha_code_2": "DK",
+      "alpha_code_3": "DNK",
+      "languages": [
+        {
+          "iso639_1": "da",
+          "iso639_2": "dan",
+          "name": "Danish",
+          "nativeName": "dansk"
+        }
+      ],
+      "emoji": "🇩🇰"
+    },
+    {
+      "id": 65,
+      "name": "Dominica",
+      "flag": "https://restcountries.eu/data/dma.svg",
+      "alpha_code_2": "DM",
+      "alpha_code_3": "DMA",
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "emoji": "🇩🇲"
+    },
+    {
+      "id": 62,
+      "name": "Czech Republic",
+      "flag": "https://restcountries.eu/data/cze.svg",
+      "alpha_code_2": "CZ",
+      "alpha_code_3": "CZE",
+      "languages": [
+        {
+          "iso639_1": "cs",
+          "iso639_2": "ces",
+          "name": "Czech",
+          "nativeName": "čeština"
+        },
+        {
+          "iso639_1": "sk",
+          "iso639_2": "slk",
+          "name": "Slovak",
+          "nativeName": "slovenčina"
+        }
+      ],
+      "emoji": "🇨🇿"
+    }
+  ]
